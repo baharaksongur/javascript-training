@@ -1,3 +1,3 @@
 (function IIFE() {
-    console.log('Printed immediately');
+    console.log('Printed immediately log');
 })()
